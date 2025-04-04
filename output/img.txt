@@ -1,0 +1,14 @@
+Supermercado Bom Preço
+CNPJ: 12.345.678/0001-90
+Endereço: Rua das Compras, 123 - Centro
+
+Data: 03/04/2025
+Hora: 14:37
+
+1x Arroz Tipo 1 5kg .......... R$ 19,90  
+2x Feijão Carioca 1kg ........ R$ 9,50  
+1x Óleo de Soja 900ml ........ R$ 7,80
+
+TOTAL: R$ 46,70
+Pagamento: Cartão de Débito
+Obrigado pela preferência!
