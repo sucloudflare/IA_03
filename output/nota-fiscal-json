@@ -1,0 +1,26 @@
+{
+  "estabelecimento": "Supermercado Bom Preço",
+  "cnpj": "12.345.678/0001-90",
+  "endereco": "Rua das Compras, 123 - Centro",
+  "data": "2025-04-03",
+  "hora": "14:37",
+  "produtos": [
+    {
+      "nome": "Arroz Tipo 1 5kg",
+      "quantidade": 1,
+      "preco_unitario": 19.90
+    },
+    {
+      "nome": "Feijão Carioca 1kg",
+      "quantidade": 2,
+      "preco_unitario": 9.50
+    },
+    {
+      "nome": "Óleo de Soja 900ml",
+      "quantidade": 1,
+      "preco_unitario": 7.80
+    }
+  ],
+  "total": 46.70,
+  "forma_pagamento": "Cartão de Débito"
+}
